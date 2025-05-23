@@ -31,3 +31,7 @@
 ### Mongo db
 
 ![image](https://github.com/user-attachments/assets/ba0d8dd1-ec1d-4256-b100-e488808581d1)
+
+
+### Desplegado en azure
+![image](https://github.com/user-attachments/assets/0bde5a03-806f-4c8d-b037-e7bebf375e26)
