@@ -1,5 +1,7 @@
 # Esteban Aguilera Contreras
 # Grupo 2 
+### diagrama de clases
+![image](https://github.com/user-attachments/assets/a65ab3ac-08e1-4414-96b7-d9b75e30af0a)
 
 ### Creamos el proyecto con spring init
 ![image](https://github.com/user-attachments/assets/fc2dc607-304d-4ee0-853a-38cf05179841)
@@ -26,3 +28,6 @@
 ![image](https://github.com/user-attachments/assets/62279933-d01f-4c24-8a6c-dbe565da8030)
 ![image](https://github.com/user-attachments/assets/6729506b-7b64-4fd8-8a7b-28b4127a5c9e)
 
+### Mongo db
+
+![image](https://github.com/user-attachments/assets/ba0d8dd1-ec1d-4256-b100-e488808581d1)
